@@ -16,5 +16,14 @@ public class CodingTip {
 		System.out.println("출력할 텍스트");
 		
 		// 실행 : ctrl + f11
+		
+		// 주석 : ctrl + /
+		
+		// 창크기변경 : ctrl + m
+		
+		// 새파일 : ctrl + n
+		
+		// 저장 : ctrl + s
+		
 	}
 }
