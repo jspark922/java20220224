@@ -7,7 +7,7 @@ public class C01Variable {
 		int var1;
 		
 		// 변수명 :
-		// 영문대소문자, 숫자, $, 
+		// 영문대소문자, 숫자, $, _
 		// 숫자로 시작할 수 없음
 		// 자바 예약서(keyword, reserved word) 사용 못함
 		
