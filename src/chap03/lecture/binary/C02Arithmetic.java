@@ -1,7 +1,7 @@
 package chap03.lecture.binary;
 
 public class C02Arithmetic {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int n1 = 2000000000;
 		int n2 = 1000000000;
 		

@@ -1,7 +1,7 @@
 package chap03.book;
 
 public class InputDataCheckNaNExample1 {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		String userInput = "NaN";
 		double val = Double.valueOf(userInput);
 		

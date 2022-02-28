@@ -1,7 +1,7 @@
 package chap03.lecture.binary;
 
 public class C06Logical {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		// 논리연산자
 		// &&(AND short circuit), ||(OR short circuit)
 		// &(AND), |(OR), ^(XOR)

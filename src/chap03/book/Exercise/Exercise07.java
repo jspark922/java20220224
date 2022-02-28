@@ -1,7 +1,7 @@
 package chap03.book.Exercise;
 
 public class Exercise07 {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int x = 10;
 		int y = 5;
 		

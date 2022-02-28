@@ -1,7 +1,7 @@
 package chap03.lecture.binary;
 
 public class C01Arithmetic {
-	public static void main (String[] agrs) {
+	public static void main (String[] args) {
 		// 산술연산자
 		// +, -, *, /, %
 		

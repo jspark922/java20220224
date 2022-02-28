@@ -1,7 +1,7 @@
 package chap03.lecture.binary;
 
 public class C03Arithmetic {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		double n1 = 0.1;
 		double n2 = 0.2;
 		

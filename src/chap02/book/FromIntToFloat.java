@@ -1,7 +1,7 @@
 package chap02.book;
 
 public class FromIntToFloat {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int num1 = 123456780;
 		int num2 = 123456780;
 		

@@ -1,7 +1,7 @@
 package chap02.book;
 
 public class BooleanExample {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		boolean stop = true;
 		if(stop) {
 			System.out.println("중지합니다.");

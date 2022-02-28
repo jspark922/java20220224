@@ -1,7 +1,7 @@
 package chap03.book;
 
 public class ArithmeticOperatorExample {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int v1 = 5;
 		int v2 = 2;
 		

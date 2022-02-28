@@ -1,7 +1,7 @@
 package chap02.book;
 
 public class CheckValueBeforeCasting {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int i =128;
 		
 		if ((i < Byte.MIN_VALUE) || (i > Byte.MAX_VALUE)) { // 최소값 : -128, 최대값 : 127

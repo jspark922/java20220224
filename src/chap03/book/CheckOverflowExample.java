@@ -1,7 +1,7 @@
 package chap03.book;
 
 public class CheckOverflowExample {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		try {
 			int result = safeAdd(2000000000, 2000000000);
 			System.out.println(result);

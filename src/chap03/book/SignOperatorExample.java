@@ -1,7 +1,7 @@
 package chap03.book;
 
 public class SignOperatorExample {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int x = -100;
 		int result1 = +x;
 		int result2 = -x;

@@ -1,7 +1,7 @@
 package chap02.book;
 
 public class FloatDoubleExample {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		// 실수값 저장
 		double var1 = 3.14;
 		// float var2 = 3.14;	// 컴파일 에러(Type mismatch)

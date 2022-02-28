@@ -1,7 +1,7 @@
 package chap03.book;
 
 public class AccuracyExample2 {
-	public static void main (String[] ages) {
+	public static void main (String[] args) {
 		int apple = 1;
 		
 		int totalPieces = apple * 10;
