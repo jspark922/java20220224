@@ -1,4 +1,4 @@
-package chap99.codingbat;
+	package chap99.codingbat;
 
 public class Array2 {
 	public int[] fizzArray3(int start, int end) {
@@ -115,20 +115,13 @@ public class Array2 {
 	}
 
 	public int bigDiff(int[] nums) {
-		int max = nums[0];
-		int min = nums[0];
-
-		for (int i = 1; i < nums.length; i++) {
-			if (max < nums[i]) {
-				max = nums[i];
-			}
-
-			if (min > nums[i]) {
-				min = nums[i];
-			}
-		}
-
-		return max - min;
+		  int max = nums[0];
+		  int min = nums[0];
+		  for (int i =0; i < nums.length; i++) {
+		    max = Math.max(max, nums[i]);
+		    min = Math.min(min, nums[i]);
+		  }
+		  return max - min;
 	}
 
 	public int countEvens(int[] nums) {
